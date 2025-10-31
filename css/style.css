@@ -1,0 +1,23 @@
+.box{
+	background-color: darkred;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.box2{
+	background-color: darkred;
+    overflow: hidden; 
+	padding: 50px 0;
+}
+.items{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	background-color:darkviolet;
+	float: left;
+	height: 50px;
+	width: 25%;
+	border: 2px solid green;
+}
